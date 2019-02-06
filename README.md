@@ -11,3 +11,7 @@ A PDF version of this workshop is also included in this repository.
 ## Contributing
 
 We welcome all Pull Requests or issues with feedback on how to improve the content of this workshop :)
+
+
+## Badges :D
+![build badge](https://img.shields.io/travis/wimvanp1/ci_workshop.svg?style=for-the-badge)
