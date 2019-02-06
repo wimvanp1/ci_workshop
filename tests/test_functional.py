@@ -46,9 +46,9 @@ class BaseSelenium(LiveServerTestCase):
 
 
 class TestNavBar(BaseSelenium):
-    def test_navbar_contains_exactly_4_links(self):
+    def test_navbar_contains_exactly_5_links(self):
         # Given
-        expected_items_in_navbar = 4
+        expected_items_in_navbar = 5
         self.browser.get(self.get_server_url())
         nav_bar = self.browser.find_element_by_id("navbarCollapse")
         # When
