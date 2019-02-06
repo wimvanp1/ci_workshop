@@ -15,3 +15,6 @@ We welcome all Pull Requests or issues with feedback on how to improve the conte
 
 ## Badges :D
 ![build badge](https://img.shields.io/travis/wimvanp1/ci_workshop.svg?style=for-the-badge)
+![coverage badge](https://img.shields.io/codecov/c/github/wimvanp1/ci_workshop.svg?style=for-the-badge)
+![pull requests badge](https://img.shields.io/github/issues-pr/wimvanp1/ci_workshop.svg?style=for-the-badge)
+![website availability badge](https://img.shields.io/website-up-down-green-red/https/barko-ci-amsterdam.herokuapp.com.svg?style=for-the-badge)
