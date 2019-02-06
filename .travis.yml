@@ -31,7 +31,7 @@ jobs:
       deploy:
         provider: heroku
         api_key:
-          secure: iwCN2plvdmJkJLsbKwbHr+gUapdJVikgRPvN0/56CdmJt/iAS1zW9KRutO2LTD2LcVZJHBBz6U9+jgR69iwJj4V5xekyqhnboyMrn8GLGziqDs5fKwzLVR6EfFexXdFbtlismhY2AlwoM1Hy7OCU/uTdK3fPEnj98Q7cuSu8ttro0Z+IU522nfgIwZh0vQsuS8uff7D5sbXhBpPHJW6V3h494Dl5pCOVtvrHM/B06/nqmyb708ulkL5BS0ZRF70XSDYWA+UbH+qissG+lIx4zx8Yy/KF6fCCB65eyZsyBjwbp0cCntuTCBWN994wHU0hm93CvodGenhuSS0qjvrraFSCMq6AUb2BelVpUXihe+hcFqRvevPYkg3jArFwhPl97nZ8rWTNHTSdMi+DdBZmDGSTHiimpMzhTu5WKinGMA6zVY2sj13kQiIDGJFZmsctCgPk6x0RB5CU5qbo5SCF9qsQ8XMHmSyfzS5XNYKkjVd+KozHLGfwrVLlpX9vA6POalkcxoXgEzvB56f08vLX7RjJ0eEWXGIOEJceI92M3/s1eXsqrMZveIH4BZcwBH7WKGzN+9ioXOBdaY4jyvc0RYnXq4NfEJIDrjxQ7/qSCqSX3//LLFrPs0F0KzIAEg6UiDCPvdaWV4THXCqI+bPwt8AcNqfXRSrz8Um9CJescdg=
+          secure: jgA88sgpIxyGW7sgNsXXiCsL16pttQzoTZio5vmGKZiXGaNqp24iDLP34KO4Y/D52A83iWBIRb/qhX0QDBAg6bWqzZHHPoUtTuFCT18/1OqjnBTw++uLvwOcncHuqYE/EKvwZCwRXe5UbmLfkzd67N3QOGTrzf5mkVM6tfKfPl3GDvY5zcKxczi1RRA/4SswvEtLlfey/ZzjMEjxMYt0NvlQU1Ll3mmzfkbJeFKjjOeJLhsxPOjZtErd7TPxYctG7w22Io1JqbOTiG9PDCheu5Ax+W53C7/aalLXbqFDNdFhwhFZDXp9yyuDwJGgnQQq13X/6XAG+GFvLxEqUz4JxCs/hJ6rkbmxgZqGyvWQ+aKJYe4Lj4tR5W1gRv5CxB30w7/2OkfkHeM0MDS4JqXUg3nplGjNqm9ZmkghngNJVmMIpdenN/o30CFBBR1tKQSprBo64SErHvs8l4tberW96Df3cBEykTXzoQiu0KRlg1FEufk0CCK/iZdKGTDJO8T6CKGXLzmC+ixW+3nowWZjhfp+x4ynYE4grn6m+rY2ACYBS97xiObKbu6fn5FPqIPyhCFSlUCJ6nbumunxer20LWB1nj0pykxpLd0uG2dzL7Yu2WC3IGqCCewdVj4H4pRJ/Ou+As4vn/+6sI6maBt/dMf3zM6fXke6TUiFsZRV5UY=
         app: barko-ci-amsterdam
         on:
           repo: wimvanp1/ci_workshop
